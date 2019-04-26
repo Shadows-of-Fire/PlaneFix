@@ -1,0 +1,14 @@
+[{
+	"modid": "planefix",
+	"name": "PlaneFix",
+	"description": "Patch mod for AE Planes",
+	"version": "${version}",
+	"mcversion": "${mcversion}",
+	"url": "",
+	"updateUrl": "",
+	"authorList": ["Shadows_of_Fire"],
+	"credits": "",
+	"logoFile": "",
+	"screenshots": [],
+	"dependencies": []
+}]
